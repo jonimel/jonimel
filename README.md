@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan Melman
-- 👀 I’m interested in Data
+- 👀 I analyze data
 - 🌱 I’m currently learning Python,Tableau, and SQL
 - 💞️ I’m looking to collaborate on new data projects
 - 📫 How to reach me - Yonimelmel@gmail.com
